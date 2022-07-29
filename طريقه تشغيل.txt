@@ -1,0 +1,5 @@
+# اول امر مهم
+termux-setup-storage
+git clone https://github.com/JihadAzeidinJ10/spy
+cd spy
+python spy.py
